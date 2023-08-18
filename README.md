@@ -13,7 +13,6 @@ Analyze Euribor data, perform Exploratory Data Analysis (EDA), and predict Eurib
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Value Prediction](#value-prediction)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About
@@ -87,10 +86,6 @@ We welcome contributions to improve this project. If you find issues or have sug
 4. Submit a pull request.
 
 Please adhere to our code of conduct.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
