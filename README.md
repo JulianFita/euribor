@@ -85,8 +85,6 @@ We welcome contributions to improve this project. If you find issues or have sug
 3. Make your enhancements or fixes.
 4. Submit a pull request.
 
-Please adhere to our code of conduct.
-
 ## Contact
 
 For questions or suggestions, feel free to contact us at juliangabrielfita@gmail.comor open an issue in the repository.
