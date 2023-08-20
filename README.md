@@ -87,4 +87,4 @@ We welcome contributions to improve this project. If you find issues or have sug
 
 ## Contact
 
-For questions or suggestions, feel free to contact us at juliangabrielfita@gmail.comor open an issue in the repository.
+For questions or suggestions, feel free to contact us at juliangabrielfita@gmail.com or open an issue in the repository.
